@@ -50,6 +50,11 @@ then we bind key to do at lease such things :
 I did it . 
 if you have any question on the steps, just ask .
 
+video:
+
+[![youtube](https://img.youtube.com/vi/RhF2zd0oMYs/0.jpg)](https://youtu.be/RhF2zd0oMYs)
+
+
 
 
 
