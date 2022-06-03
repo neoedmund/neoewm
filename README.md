@@ -55,6 +55,10 @@ video:
 [![youtube](https://img.youtube.com/vi/RhF2zd0oMYs/0.jpg)](https://youtu.be/RhF2zd0oMYs)
 
 
+## update
+After several days, I feel still some uncomfortable, so I switch to openbox. However I use the auto grid layout function for window select. and a `lemonbar` as system monitor bar.
+
+
 
 
 
