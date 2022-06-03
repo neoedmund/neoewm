@@ -56,7 +56,7 @@ video:
 
 
 ## update
-After several days, I feel still some uncomfortable, so I switch to openbox. However I use the auto grid layout function for window select. and a `lemonbar` as system monitor bar.
+After several days, I feel still some uncomfortable, so I switch to `openbox`. However I use the `auto grid layout` function for window select. and a `lemonbar` as system monitor bar.
 
 
 
